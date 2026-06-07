@@ -10,7 +10,7 @@ export const projectData: ProjectArticle[] = [
     imageAlt:
       "The logo for the Aurora Shop. Simple and Modern with a blue background and white text.",
     LiveUrl: "https://jsf-fed2-sara-al-merat-rezvany.netlify.app/",
-    RepoUrl: "https://github.com/ReZvanYY/js-framework-noroff-Sara-al-merat-r",
+    RepoUrl: "https://github.com/NoroffFEU/jsfw-2025-v1-jsf-fed2-sara-al-merat-r-ca",
     client: "Noroff School Project",
     year: "2025",
     caption:
