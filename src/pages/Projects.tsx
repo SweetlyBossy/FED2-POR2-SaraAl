@@ -25,7 +25,7 @@ export default function Projects() {
             className="bg-white rounded-xl border border-stone-200/60 overflow-hidden shadow-sm hover:shadow-md transition-all flex flex-col h-full group"
           >
             {/* Project Frame Wrapper */}
-            <div className="aspect-video w-full bg-[url('/background.png')] bg-cover bg-center overflow-hidden border-b border-stone-200/40 relative">
+            <div className="aspect-video w-full overflow-hidden border-b border-stone-200/40 relative bg-stone-300">
               <img
                 src={projects.imageUrl}
                 alt={projects.imageAlt}

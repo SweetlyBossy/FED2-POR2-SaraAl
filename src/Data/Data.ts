@@ -79,13 +79,13 @@ export const projectData: ProjectArticle[] = [
     title: "CSS Frameworks -  FED2",
     description:
       "A social media platform built with JavaScript, HTML and Tailwind CSS. The project focuses on implementing a clean and modern design while utilizing Tailwind's utility-first approach to styling.",
-    imageUrl: "../portfolio.png",
+    imageUrl: "../SocialMedia.png",
     imageAlt:
       "A screenshot of my personal portfolio website, featuring a clean and modern design with a dark background and vibrant accent colors.",
-    LiveUrl: "https://saraalmerat.netlify.app/",
-    RepoUrl: "https://github.com/SweetlyBossy/FED2-POR2-SaraAl",
+    LiveUrl: "https://fed2-js-meratr-saraal-ca.netlify.app//",
+    RepoUrl: "https://github.com/ReZvanYY/FED2-JS-MeratR-SaraAl/tree/CSS-WorkFlow-SaraAl",
     client: "Personal Project",
-    year: "2026",
+    year: "2025",
     caption:
       "A social media platform built with JavaScript, HTML and Tailwind CSS. The project focuses on implementing a clean and modern design while utilizing Tailwind's utility-first approach to styling.",
     overview:
